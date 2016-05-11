@@ -1,3 +1,3 @@
 创建了一个文本文件,设置了别名命令用git config —global alias.cm “commit” 其中cm就是commit的别名
 git commit -s 这个命令Signed-off？？
-1111
+
